@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firestore037</string>
+    <string name="enter_stambuk">enter stambuk...</string>
+    <string name="enter_name">enter name...</string>
+    <string name="selamat_datang_di_firebase">Selamat datang di firebase</string>
+    <string name="save_to_firestore">Save to firestore</string>
+    <string name="go_to_list">Go To List</string>
+    <string name="todo">TODO</string>
+</resources>
